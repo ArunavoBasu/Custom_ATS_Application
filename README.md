@@ -1,0 +1,1 @@
+### This is a custom ATS application made by gemini pro LLM to calculate the match percentage and missing keywords in a resume in compare with the job description
